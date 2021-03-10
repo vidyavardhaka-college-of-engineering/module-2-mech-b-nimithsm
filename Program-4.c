@@ -18,7 +18,7 @@ for(i=1;i<=n;i++)
    
    if ( i % 2 == 0 )
       continue;
-  sum = sum +5;
+  sum = sum +5 ;
   }
 //Fill the missing code
 printf("%d",sum);
